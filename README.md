@@ -62,6 +62,16 @@ This is live action video documentation 2 : https://www.youtube.com/watch?v=awge
 
 [![Demo Video 2](https://i.ytimg.com/vi/awgeQoggXWA/hqdefault.jpg)](https://www.youtube.com/watch?v=awgeQoggXWA)
 
+______________________________________
+# Android User 
+
+Good News For Android User I got it from another developer who contribute this project for running this tools on Android Platform And You Can Use This Tools With Termux in your android smartphone you can get it Termux on Playstore
+
+See this repo below for instruction about Instalation 
+
+ - https://github.com/Yukinoshita47/termux-lazysqlmap
+ or
+ - https://github.com/verluchie/termux-lazysqlmap
 
 ______________________________________
 # Greetings
