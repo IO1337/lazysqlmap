@@ -6,6 +6,11 @@ ______________________________________
 SQLMap For Lazy People Edition I made this SQLMap more easier to use
 
 this project is under GNU General Public License v3.0
+
+______________________________________
+# Media Review
+
+- Haxkit : https://www.haxkit.com/2017/09/lazysqlmap.html
 ______________________________________
 # How to Use It
 
@@ -34,9 +39,11 @@ After installed run from your terminal
 ______________________________________
 # Image And Video Documentation
 
-this is a screenshot
+this is a screenshot on Kali Linux
 
 ![screenshot](https://2.bp.blogspot.com/-aO-u7o9yaN8/WbugDrf0xkI/AAAAAAAABok/4FahXSb3MSI9Xe2ABOwN514KPJvBhY5gACLcBGAs/s640/Screenshot%2Bfrom%2B2017-09-15%2B16%253A37%253A41.png)
+
+![screenshot](https://scontent-sin6-2.xx.fbcdn.net/v/t31.0-0/p480x480/21731631_910735625746940_8174915939289644754_o.jpg?oh=fcd3dbb64b2c31ac4800d737c90151fd&oe=5A5CF8BB)
 
 i made this video for you guys
 
