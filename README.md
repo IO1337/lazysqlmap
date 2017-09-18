@@ -76,6 +76,8 @@ See this repo below for instruction about Instalation
  or
  
  - https://github.com/verluchie/termux-lazysqlmap
+ 
+ Also you can see video tutorial here : https://youtu.be/qc45ruYsoyA
 
 ______________________________________
 # Greetings
