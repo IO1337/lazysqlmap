@@ -67,10 +67,14 @@ ______________________________________
 
 Good News For Android User I got it from another developer who contribute this project for running this tools on Android Platform And You Can Use This Tools With Termux in your android smartphone you can get it Termux on Playstore
 
+this repo is from V3rluchie Team Blood Tears No Team Squad they make this tools run perfectly on android
+
 See this repo below for instruction about Instalation 
 
  - https://github.com/Yukinoshita47/termux-lazysqlmap
+ 
  or
+ 
  - https://github.com/verluchie/termux-lazysqlmap
 
 ______________________________________
