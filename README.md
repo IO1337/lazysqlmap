@@ -11,6 +11,8 @@ ______________________________________
 # Media Review
 
 - Haxkit : https://www.haxkit.com/2017/09/lazysqlmap.html
+
+- r00t_1337 : https://r00t1337.blogspot.co.id/2017/09/the-lazysqlmap-tools-sqlmap-untuk-kaum.html
 ______________________________________
 # How to Use It
 
@@ -63,7 +65,7 @@ This is live action video documentation 2 : https://www.youtube.com/watch?v=awge
 [![Demo Video 2](https://i.ytimg.com/vi/awgeQoggXWA/hqdefault.jpg)](https://www.youtube.com/watch?v=awgeQoggXWA)
 
 ______________________________________
-# Android User 
+# LazySQLMap For Android User 
 
 Good News For Android User I got it from another developer who contribute this project for running this tools on Android Platform And You Can Use This Tools With Termux in your android smartphone you can get it Termux on Playstore
 
@@ -77,7 +79,15 @@ See this repo below for instruction about Instalation
  
  - https://github.com/verluchie/termux-lazysqlmap
  
- Also you can see video tutorial here : https://youtu.be/qc45ruYsoyA
+ Also you can see video tutorial here :
+
+- termux-lazysqlmap full autometed script on termux [noroot ] : https://youtu.be/qc45ruYsoyA
+
+- Termux LazySQLmap : https://youtu.be/Fk7pG1d-U6I
+
+Website Review
+
+- Blood Tears No Team Squad : http://www.squad-cyber.ga/2017/09/lazy-sqlmap-pentestting-tool-termux.html
 
 ______________________________________
 # Greetings
