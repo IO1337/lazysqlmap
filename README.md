@@ -13,6 +13,8 @@ ______________________________________
 - Haxkit : https://www.haxkit.com/2017/09/lazysqlmap.html
 
 - r00t_1337 : https://r00t1337.blogspot.co.id/2017/09/the-lazysqlmap-tools-sqlmap-untuk-kaum.html
+
+- Yoshieichiro_01 : http://muhammd-hilmy.blogspot.co.id/2017/09/the-lazysqlmap.html
 ______________________________________
 # How to Use It
 
