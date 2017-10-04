@@ -15,6 +15,8 @@ ______________________________________
 - r00t_1337 : https://r00t1337.blogspot.co.id/2017/09/the-lazysqlmap-tools-sqlmap-untuk-kaum.html
 
 - Yoshieichiro_01 : http://muhammd-hilmy.blogspot.co.id/2017/09/the-lazysqlmap.html
+
+- isec.ne.jp slide persentation : https://isec.ne.jp/wp-content/uploads/2017/09/48Lazy-SQLMap.pdf
 ______________________________________
 # How to Use It
 
