@@ -93,7 +93,20 @@ Website Review
 
 - Blood Tears No Team Squad : http://www.squad-cyber.ga/2017/09/lazy-sqlmap-pentestting-tool-termux.html
 
+
 ______________________________________
+# LazySQLMap For Windows User
+
+Good News Too For Windows User this development by Yoshieichiro_01 Now You Can Run LazySQLMap in your lovely windows machine
+
+Go To Yoshieichiro_01 Resource
+
+Github : https://github.com/Yoshieichiro01/Windows-LazySQLMapEdition
+
+Blog : https://muhammd-hilmy.blogspot.co.id/2017/10/lazysqlmap-edition-for-windows-user.html
+
+Official Team Blogpost : http://project.garudasecurityhacker.org/2017/10/lazysqlmap-edition-for-windows-user.html
+
 # Greetings
 
 I Developed this project https://github.com/sqlmapproject/sqlmap
