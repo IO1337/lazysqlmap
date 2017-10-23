@@ -17,6 +17,8 @@ ______________________________________
 - Yoshieichiro_01 : http://muhammd-hilmy.blogspot.co.id/2017/09/the-lazysqlmap.html
 
 - isec.ne.jp slide persentation : https://isec.ne.jp/wp-content/uploads/2017/09/48Lazy-SQLMap.pdf
+
+- Pentest Tools : http://pentestools.com/lazysqlmap/
 ______________________________________
 # How to Use It
 
